@@ -34,13 +34,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestScores">
-    <configuration name="BookClubPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekOne.BookClubPoints" />
+  <component name="RunManager" selected="Application.restaurant">
+    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekThree.EvenOrOdd" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekOne.*" />
+          <option name="PATTERN" value="WeekThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekOne.Name" />
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekThree.Login" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekOne.*" />
+          <option name="PATTERN" value="WeekThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekOne.TestScores" />
+    <configuration name="SwitchActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekThree.SwitchActivity" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekOne.*" />
+          <option name="PATTERN" value="WeekThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekThree.Triangles" />
+      <module name="cs121Folder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeekThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekThree.restaurant" />
+      <module name="cs121Folder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeekThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,9 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestScores" />
-        <item itemvalue="Application.BookClubPoints" />
-        <item itemvalue="Application.Name" />
+        <item itemvalue="Application.restaurant" />
+        <item itemvalue="Application.SwitchActivity" />
+        <item itemvalue="Application.Triangles" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.EvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
