@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -34,13 +35,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.restaurant">
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekThree.EvenOrOdd" />
+  <component name="RunManager" selected="Application.GuessingGame">
+    <configuration name="EspGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfour.EspGame" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekThree.*" />
+          <option name="PATTERN" value="weekfour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekThree.Login" />
+    <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfour.GuessingGame" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekThree.*" />
+          <option name="PATTERN" value="weekfour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekThree.Triangles" />
+    <configuration name="TestAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfour.TestAverage" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekThree.*" />
+          <option name="PATTERN" value="weekfour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessingGame" />
+        <item itemvalue="Application.EspGame" />
+        <item itemvalue="Application.TestAverage" />
         <item itemvalue="Application.restaurant" />
         <item itemvalue="Application.SwitchActivity" />
-        <item itemvalue="Application.Triangles" />
-        <item itemvalue="Application.Login" />
-        <item itemvalue="Application.EvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
