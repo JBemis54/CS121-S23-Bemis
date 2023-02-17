@@ -32,11 +32,20 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jacob/OneDrive/Documents/CS121/CS121-S23-Bemis/cs121Folder&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="EspGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EspGame">
+    <configuration name="EspGame" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekfour.EspGame" />
       <module name="cs121Folder" />
       <extension name="coverage">
@@ -103,7 +112,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EspGame" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.TestAverage" />
         <item itemvalue="Application.restaurant" />
