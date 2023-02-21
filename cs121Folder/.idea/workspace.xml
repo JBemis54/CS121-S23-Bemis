@@ -44,7 +44,7 @@
       <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EspGame">
+  <component name="RunManager">
     <configuration name="EspGame" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekfour.EspGame" />
       <module name="cs121Folder" />
@@ -84,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekSix.Test" />
+      <module name="cs121Folder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeekSix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekfour.TestAverage" />
       <module name="cs121Folder" />
@@ -112,6 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.TestAverage" />
         <item itemvalue="Application.restaurant" />
