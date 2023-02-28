@@ -44,7 +44,20 @@
       <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayFromInput">
+    <configuration name="ArrayFromInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekSeven.ArrayFromInput" />
+      <module name="cs121Folder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeekSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EspGame" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekfour.EspGame" />
       <module name="cs121Folder" />
@@ -71,15 +84,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekThree.SwitchActivity" />
+    <configuration name="PokemonBattle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PokemonBattle" />
       <module name="cs121Folder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WeekThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayFromInput" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.TestAverage" />
         <item itemvalue="Application.restaurant" />
-        <item itemvalue="Application.SwitchActivity" />
       </list>
     </recent_temporary>
   </component>
