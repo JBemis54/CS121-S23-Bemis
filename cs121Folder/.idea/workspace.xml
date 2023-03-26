@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,18 +34,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jacob/OneDrive/Documents/CS121/CS121-S23-Bemis/cs121Folder&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jacob/OneDrive/Documents/CS121/CS121-S23-Bemis/cs121Folder/src/WeekEight/Interface&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder\src\WeekEight\Interface" />
+      <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder\src\WeekEight\Abstract" />
       <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jacob\OneDrive\Documents\CS121\CS121-S23-Bemis\cs121Folder" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="WeekEight" />
+      <recent name="WeekEight.Interface" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayFromInput">
+  <component name="RunManager">
     <configuration name="ArrayFromInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeekSeven.ArrayFromInput" />
       <module name="cs121Folder" />
@@ -117,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeekThree.restaurant" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekEight.Abstract.test" />
       <module name="cs121Folder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeekThree.*" />
+          <option name="PATTERN" value="WeekEight.Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.ArrayFromInput" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.TestAverage" />
-        <item itemvalue="Application.restaurant" />
       </list>
     </recent_temporary>
   </component>
