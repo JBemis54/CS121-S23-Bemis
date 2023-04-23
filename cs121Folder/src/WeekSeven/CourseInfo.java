@@ -9,16 +9,16 @@ public class CourseInfo {
     private ArrayList<Character> letterGradeList = new ArrayList<>();
 
     public void addCourse(String course){
-        courseList.add(course);
+        this.courseList.add(course);
     }
     public void addGPA (Double gpa){
-        gpaList.add(gpa);
+        this.gpaList.add(gpa);
     }
     public void addScore(int score){
-        scoreList.add(score);
+        this.scoreList.add(score);
     }
     public void addGrade (char grade){
-        letterGradeList.add(grade);
+        this.letterGradeList.add(grade);
     }
 
     public void table() {
